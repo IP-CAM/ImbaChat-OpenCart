@@ -8,7 +8,7 @@ class ControllerExtensionModuleImbaChat extends Controller {
             'id' => $this->customer->getId(),
         ]);
         $data['dev_id'] = $this->model_extension_module_imbachat->getDevID();
-            
+        echo json_encode($data);
         return $this->load->view('extension/module/imbachat', $data);
     }
     public function getJWT()
