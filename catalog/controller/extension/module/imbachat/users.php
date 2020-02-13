@@ -13,6 +13,8 @@ class ControllerExtensionModuleImbaChatUsers extends Controller {
         
         foreach ($ids as $id){ 
             $user_m = $this->model_account_customer->getCustomer($id);
+            if(!$user_m)
+                continue;
             $user = [];
             $user['name'] = $user_m['firstname'];
             $user['user_id'] =  $id; 
