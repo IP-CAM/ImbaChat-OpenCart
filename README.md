@@ -9,11 +9,7 @@ It allows to add chat widget between users on your website for free.
 
 # Links:
 
-[Demo site](http://wordpress.imbachat.com/)
-
-[Plugin for WordPress CMS](https://github.com/imbasynergy/ImbaChat-WordPressCMS)
-
-[Source code of the demo site](https://github.com/imbasynergy/ImbaChat-WordPressCMS-demo)
+[Plugin for OpenCart CMS](https://github.com/imbasynergy/ImbaChat-OpenCart)
 
 [Technical support](http://imbachat.com/help)
 
