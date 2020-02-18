@@ -4,7 +4,7 @@
 
 # Chat widget for OpenCart CMS
 
-This is free plugin for integration OpenCart CMS с chat service imbachat.com 
+This is free plugin for integration OpenCart CMS with chat service imbachat.com 
 It allows to add chat widget between users on your website for free. 
 
 # Links:
